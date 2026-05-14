@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kit-celebracao",
+    "name": "Kit Celebração",
+    "description": "Caixa Premium com barrinhas de chocolate artesanais. Perfeito para presentear quem você ama com saúde e sabor.",
+    "price": 274.00,
+    "originalPrice": 320.00,
+    "category": "kits",
+    "image": "https://freekitchenbr.com.br/assets/kit-celebracao-B85ZbmNP.jpg",
+    "badge": "Mais Vendido",
+    "visible": true,
+    "inStock": true
+  },
+  {
+    "id": "kit-barrinhas-premium",
+    "name": "Kit Barrinhas Premium",
+    "description": "Seleção de barras de chocolate artesanais com avelã, pistache e frutas. Embalagem elegante — oval, coração ou verde.",
+    "price": 120.00,
+    "originalPrice": 150.00,
+    "category": "kits",
+    "image": "https://freekitchenbr.com.br/assets/kit-barrinhas-BXhG5bYI.jpg",
+    "badge": "Novo",
+    "visible": true,
+    "inStock": true
+  },
+  {
+    "id": "kit-bombons-tamara",
+    "name": "Kit Bombons de Tâmara",
+    "description": "5 bombons de tâmara sortidos: pistache, framboesa e avelã. Uma experiência única de sabor saudável.",
+    "price": 120.00,
+    "category": "kits",
+    "image": "https://freekitchenbr.com.br/assets/kit-bombons-CQLtRzY9.jpg",
+    "badge": "Especial Festas",
+    "visible": true,
+    "inStock": true
+  },
+  {
+    "id": "caixa-trio-barrinhas",
+    "name": "Caixa Trio de Barrinhas",
+    "description": "Três barrinhas de chocolate saudável em embalagem para presente. Zero açúcar, zero glúten, zero lácteos.",
+    "price": 54.00,
+    "category": "presenteáveis",
+    "image": "https://freekitchenbr.com.br/assets/free-bars-trio-DOa1SzU1.jpg",
+    "badge": null,
+    "visible": true,
+    "inStock": true
+  },
+  {
+    "id": "lasca-chocolate-pistache-framboesa",
+    "name": "Lasca de Chocolate com Pistache e Framboesa",
+    "description": "Chocolate fit com pedaços de pistache e framboesa. Crocante, saboroso e completamente saudável.",
+    "price": 39.99,
+    "category": "chocolates",
+    "image": "https://freekitchenbr.com.br/assets/lasca-pistache-Dm7f6WW4.jpg",
+    "badge": null,
+    "visible": true,
+    "inStock": true
+  },
+  {
+    "id": "lasca-chocolate-preto-avela",
+    "name": "Lasca de Chocolate Preto com Avelã Torrada",
+    "description": "Chocolate preto fit com avelã torrada. Rico em antioxidantes, sem açúcar e irresistível.",
+    "price": 39.00,
+    "category": "chocolates",
+    "image": "https://freekitchenbr.com.br/assets/lasca-avela-BTr76cu9.webp",
+    "badge": null,
+    "visible": true,
+    "inStock": true
+  },
+  {
+    "id": "lasca-chocolate-branco-frutas",
+    "name": "Lasca de Chocolate Branco com Frutas Vermelhas",
+    "description": "Chocolate branco fit com frutas vermelhas e amêndoas. Leve, sofisticado e completamente fit.",
+    "price": 48.50,
+    "category": "chocolates",
+    "image": "https://freekitchenbr.com.br/assets/lasca-frutas-eol0vOls.webp",
+    "badge": null,
+    "visible": true,
+    "inStock": true
+  },
+  {
+    "id": "panforte",
+    "name": "Panforte",
+    "description": "Doce italiano artesanal com frutas, nozes e especiarias. Sem glúten, sem lácteos, sem açúcar refinado.",
+    "price": 71.55,
+    "category": "snacks",
+    "image": "https://freekitchenbr.com.br/assets/combo-panforte-cookie-iq2m466C.jpg",
+    "badge": null,
+    "visible": true,
+    "inStock": true
+  }
+]
